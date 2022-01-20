@@ -2,7 +2,10 @@
 
 [**OPCUA**](https://opcfoundation.org/) nodoak [**NODE RED**-en](https://nodered.org/) instalatu eta ondoren [**opc-ua-handler**](https://github.com/Tknika/node-red-subflows/tree/master/opc-ua-handler) subflow-a erabili ahal izateko beharrezko pausoak. 
 
-![enter image description here](Irudiak/OPC-UA handler.png)
+
+<p align="center">
+  <img src="/Irudiak/OPCUAhandler.png" width="624" height="300">
+</p>
 
 
 It has been developed mainly for teachers (educational environments), in order to facilitate the implementation of IoM (Internet of Machines) and IIoT (Industrial Internet of Things) systems in embedded devices.
