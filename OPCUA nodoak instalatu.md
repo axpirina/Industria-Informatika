@@ -1,4 +1,4 @@
-# OPCUA nodoak Node Red-en instalatu
+# OPCUA nodoak instalatu
 
 [**OPCUA**](https://opcfoundation.org/) nodoak [**NODE RED**-en](https://nodered.org/) instalatu eta ondoren [**opc-ua-handler**](https://github.com/Tknika/node-red-subflows/tree/master/opc-ua-handler) subflow-a erabili ahal izateko beharrezko pausoak. 
 
