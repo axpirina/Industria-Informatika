@@ -43,21 +43,8 @@
 
 ---
 
-### 4. **DNS cache-a bistaratu eta garbitu (`ipconfig /displaydns` eta `ipconfig /flushdns`)**
 
-- **Ariketa**: DNS bilaketaren cachea ikusi eta garbitu.
-- **Komandoa cachea ikusteko**:
-  ```bash
-  ipconfig /displaydns
-  ```
-  - **Cachea garbitzeko**:
-  ```bash
-  ipconfig /flushdns
-  ```
-
----
-
-### 5. **Web zerbitzari batekin HTTP bidez konektatu (`curl`)**
+### 4. **Web zerbitzari batekin HTTP bidez konektatu (`curl`)**
 
 - **Ariketa**: Web zerbitzari batekin komunikazioa HTTP edo HTTPS bidez egin.
 - **Komandoa**:
@@ -67,7 +54,7 @@
 
 ---
 
-### 6. **Zerbitzari batean atakak eskaneatu (`Test-NetConnection`)**
+### 5. **Zerbitzari batean atakak eskaneatu (`Test-NetConnection`)**
 
 - **Ariketa**: Zerbitzari batean ataka jakin bat irekitako dagoen egiaztatu.
 - **Komandoa PowerShell-en**:
@@ -81,7 +68,7 @@
 
 ---
 
-### 7. **Fitxategi bat beste gailu batera kopiatu (`scp`)**
+### 6. **Fitxategi bat beste gailu batera kopiatu (`scp`)**
 
 - **Ariketa**: Fitxategi bat sare bidez kopiatu gailu batetik bestera `scp` erabiliz.
 - **Komandoa**:
@@ -95,16 +82,4 @@
 
 ---
 
-### 8. **Traceroute bidez bidea jarraitu (`tracert`)**
 
-- **Ariketa**: Pakete bat helmugara heltzeko sarean zein bide jarraitzen duen ikusi.
-- **Komandoa**:
-  ```bash
-  tracert <host>
-  ```
-  - Adibidez, Google zerbitzarirako bidea ikusteko:
-  ```bash
-  tracert google.com
-  ```
-
----
